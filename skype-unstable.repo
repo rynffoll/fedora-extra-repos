@@ -1,0 +1,7 @@
+[skype-unstable]
+name=skype (unstable)
+baseurl=https://repo.skype.com/rpm/unstable/
+enabled=1
+gpgcheck=1
+gpgkey=https://repo.skype.com/data/SKYPE-GPG-KEY
+skip_if_unavailable=True
